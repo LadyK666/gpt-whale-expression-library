@@ -1,5 +1,7 @@
 # GPT娘与鲸鱼娘表情动作库
 
+**在线浏览：[ladyk.asia/expressions](https://ladyk.asia/expressions/)**
+
 社区非官方 AI 生成角色素材库，包含静态姿态、头像与短循环 GIF。
 
 当前收录 **181 个主素材**：单人静态 77、双人静态 69、GIF 34、头像 1。GIF 另附原始六帧 PNG 与源图。
