@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-09T11:27:13.953868+08:00",
+  "updated_at": "2026-11-11T18:26:24.445565+08:00",
   "counts": {
     "static-single": 77,
     "static-duo": 69,
-    "gif": 34,
+    "gif": 50,
     "avatar": 1
   },
-  "total": 181,
+  "total": 197,
   "assets": [
     {
       "id": "static-single/pixel-sit-reading",
@@ -4897,6 +4897,855 @@
         "sources/whale-anime-palms-up-shrug-v036/frames/frame-04.png",
         "sources/whale-anime-palms-up-shrug-v036/frames/frame-05.png",
         "sources/whale-anime-palms-up-shrug-v036/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/gpt-anime-palms-thanks-v037",
+      "label": "动漫GPT娘 · 合掌感谢",
+      "group": "gif",
+      "file": "assets/gif/gpt-anime-palms-thanks-v037.gif",
+      "sha256": "96b360f9cba0e474b6ddf237b313e42682231b2d773f16ebb09b9021d8338045",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "adult anime",
+      "characters": [
+        "GPT girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        400,
+        220,
+        480
+      ],
+      "total_duration_ms": 2200,
+      "loop": 0,
+      "background": "opaque pale lavender with slight source tone variation and palette quantization",
+      "prompt": "Use case: illustration-story\nAsset type: one static animation keyframe sprite sheet, adult anime GPT girl making a palms-together thank-you gesture.\nCreate exactly 1536 x 1024 pixels, a strict 3-column by 2-row layout of six equal 512 x 512 square cells. Reading order is left to right across the top row, then left to right across the bottom row. No drawn grid, separators, borders, captions, numbers, letters, symbols, watermark or text anywhere. A single uniform opaque pale lavender background across the whole sheet.\nInput image 1 is a reference for the adult GPT character identity, face, long white/lavender hair with side braid, lavender dragon horns with small gold fittings, purple eyes, skin-colored pointed ears, purple dragon tail, and white/purple/gold outfit. Ignore its pointing pose and full-body framing. Input image 2 is a reference for recent adult proportions, polished anime rendering, stable front-facing waist-up framing and resting hands near the waist. Ignore the source action; do not point upward. These are reference inputs, not images to paste into the sheet.\nDraw the same recognizable adult anime woman in every cell: mature normal adult proportions, elegant face and adult torso/shoulders, never chibi or childlike. Long white hair shaded pale lavender, side braid, purple eyes, two lavender dragon horns, subtle gold jewelry, skin-colored elf-like pointed ears, dark purple high-neck sleeveless bodice, white detached sleeves with purple trim and small gold flower ornaments, purple waist sash, white/purple upper skirt, and a curved lavender scaled dragon tail visible to the side. No whale ears, whale tail, blue hair, maid headband or extra character. Match the references closely.\nCamera and layout: identical front-facing or very slightly three-quarter waist-up portrait in all six cells, same head size, head position, shoulder/waist position, body scale and tail position. Show the head, horns, ears, hair, complete hands and fingers, forearms and upper skirt. End the waist-up skirt naturally inside the square rather than at a cell boundary. Scale the character modestly to aim for approximately 60 pixels of clear background on all sides of each cell; keep horns, hair, ears, tail and hands complete. No accidental clipping, no zoom, no camera movement. Keep the head upright and stable, no bowing required.\nThe action is one gentle thank-you: both separate hands rise from the waist, the two palms truly meet vertically at the center of the chest with fingertips pointing upward, hold together, then separate and lower. This must include clearly changing shoulder/elbow/forearm poses, not merely changing facial expressions. Each hand belongs naturally to its own wrist and arm. Exactly two arms and two hands with anatomically coherent fingers. The palms meet each other, not the viewer; thumbs sit naturally along the joined hands. Do not interlace fingers. Do not clap repeatedly, make fists, make finger hearts, or add floating hearts, sparkles or other effects.\nFrame 1, top left: both hands separate and relaxed low in front of her waist, eyes open, small warm closed-mouth smile.\nFrame 2, top middle: both elbows bend and both forearms lift toward her chest. Open palms face inward toward each other with a small visible gap between them, fingertips already turning upward. Eyes open, small smile.\nFrame 3, top right: both palms fully touch in a clear symmetrical palms-together thank-you gesture at the center of the chest, fingers aligned pointing upward, both wrists visibly connected to their separate forearms, natural thumb placement. Eyes open, small warm smile.\nFrame 4, bottom left: maintain the same true palm-to-palm contact at chest center, upright fingertips. Softly closed eyes and a gentle grateful smile, no head tilt or bow, no change to body scale.\nFrame 5, bottom middle: eyes open again. The palms have separated and both forearms are visibly lowering from chest toward waist, leaving a clear gap between the relaxed hands. Keep the head and torso stable.\nFrame 6, bottom right: return close to frame 1, both hands separately relaxed at the waist, eyes open and small warm smile. The head, hair, tail, outfit and camera remain stable throughout.\nStyle: polished coherent anime illustration matching the references, fine clean linework, soft controlled shading, consistent lighting and colors. Prioritize readable true palm contact in frames 3 and 4, complete natural hands, adult identity and clearly sequenced arm movement. This is a static six-frame source sheet, not a GIF file.\n",
+      "references": [
+        {
+          "name": "illustration-explain.png",
+          "role": "Adult GPT identity, outfit, horns, ears, hair and tail; ignore pose"
+        },
+        {
+          "name": "frame-01.png",
+          "role": "Adult proportions, rendering and waist-up composition; ignore pointing action"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/gpt-anime-palms-thanks-v037/sheet.png",
+      "source_frames": [
+        "sources/gpt-anime-palms-thanks-v037/frames/frame-01.png",
+        "sources/gpt-anime-palms-thanks-v037/frames/frame-02.png",
+        "sources/gpt-anime-palms-thanks-v037/frames/frame-03.png",
+        "sources/gpt-anime-palms-thanks-v037/frames/frame-04.png",
+        "sources/gpt-anime-palms-thanks-v037/frames/frame-05.png",
+        "sources/gpt-anime-palms-thanks-v037/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/whale-chibi-warm-cup-v038",
+      "label": "Q版鲸鱼娘 · 捧杯取暖",
+      "group": "gif",
+      "file": "assets/gif/whale-chibi-warm-cup-v038.gif",
+      "sha256": "ce8bcc7166c94a84a548a7feac40533c08e4974186f3eefbead4ed2ed2321df2",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        400,
+        220,
+        480
+      ],
+      "total_duration_ms": 2200,
+      "loop": 0,
+      "background": "opaque pale blue with slight source variation and palette quantization",
+      "prompt": "Use case: stylized-concept\nAsset type: one static six-keyframe sprite sheet to be assembled into a character action GIF later; do not generate a GIF.\nCreate a 1536 x 1024 pixel image containing exactly 3 columns by 2 rows of equal 512 x 512 square animation keyframes, in reading order left to right then top to bottom. No visible panel lines, gutters, grids, labels, numbers, lettering, watermark, or decorative symbols. Every cell has the same clean, opaque, uniform pale blue background.\nReferences: image 1 is the community whale-girl identity reference only; ignore its multi-view sheet layout. Image 2 is the recent full-body chibi whale-girl reference for costume, rendering, and proportions; ignore its hands-to-face/shy action. The subject is the SAME whale girl in all six frames, alone, frontal, full body, about 2 to 2.5 heads tall. Preserve her deep blue to light blue long wavy hair, blue eyes, white-edged whale-fin ears with blue bows, white lace maid headband, ring-shaped blue ahoge, dark blue and white frilly maid dress, white apron with its blue whale motif, blue whale tail, white socks and blue shoes. No GPT dragon horns or purple identity features.\nComposition: lock the head, face scale, torso, skirt, legs, shoes, tail, camera, framing and perspective in place across all six cells. The entire headband, ahoge, both fin ears, hair tips, fingers, cup, shoes and tail remain inside their own square. Make the character small enough for approximately 65 pixels of calm empty space on every side in each square; do not fill the square. Keep the feet at the same baseline and the head at the same location. No whole-character translation or zoom.\nAction: she warms both hands around ONE small plain ivory-white handleless ceramic cup, gently raising it from waist level to the chest and lowering it again. The same single cup has the same round elliptical opening, shape, size, ivory color and upright orientation in every frame; no print, motif, text, logo, handle, lid or saucer. This is warming hands, not drinking or pouring. The cup must always remain clearly below and separated from the chin and mouth, even at its highest position. No steam, hearts, bubbles or effects.\nAnatomy and contact are essential: BOTH hands genuinely cradle the cup throughout all six frames, palms touching the two sides and fingers curling underneath its lower sides/base. Each wrist clearly connects to its own forearm and elbow. Exactly two arms and two hands; no floating cup, detached wrists, crossed ownership, merged cup-and-hand shapes, extra cup, or disappearing support hand. The forearms must visibly bend upward as the cup rises, then lower with it. The cup moves WITH the supporting hands, not independently. Keep the contact boundary and individual fingers readable.\nFrame 1, top left: both forearms relaxed diagonally down in front, both hands cradle the cup at waist level in front of the apron; eyes open, small friendly smile.\nFrame 2, top middle: both elbows visibly bend; both hands and the same cup rise together to abdomen/lower-chest level, intermediate between frame 1 and frame 3; eyes open, small smile.\nFrame 3, top right: both bent forearms hold the cup at upper-chest level below the collar, with a clearly visible gap from the chin and mouth; both palms rest against its sides to enjoy its warmth, fingers support underneath; eyes open, gentle happy smile.\nFrame 4, bottom left: retain the same securely supported chest-level cup pose as frame 3; softly closed eyes and a relaxed comfortable smile. No drinking.\nFrame 5, bottom middle: both elbows extend downward together, both hands and cup descend to the same intermediate abdomen/lower-chest level as frame 2; eyes open, small smile.\nFrame 6, bottom right: both hands and cup return to waist level, closely matching frame 1 in all placement and expression so the action can later loop.\nStyle: polished cute chibi anime illustration matching the references, clean consistent contours, soft dimensional cel shading, delicate costume details. Clearly drawn physical arm and cup movement is required, not six repeated poses with only eye changes. Keep nonmoving features highly consistent. No other characters, furniture or objects, no independent icons, and no cropping.\n",
+      "references": [
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Community whale-girl identity only; ignore sheet layout",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        },
+        {
+          "name": "frame-01.png",
+          "role": "Recent full-body chibi proportions, costume and rendering only; ignore shy action"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/whale-chibi-warm-cup-v038/sheet.png",
+      "source_frames": [
+        "sources/whale-chibi-warm-cup-v038/frames/frame-01.png",
+        "sources/whale-chibi-warm-cup-v038/frames/frame-02.png",
+        "sources/whale-chibi-warm-cup-v038/frames/frame-03.png",
+        "sources/whale-chibi-warm-cup-v038/frames/frame-04.png",
+        "sources/whale-chibi-warm-cup-v038/frames/frame-05.png",
+        "sources/whale-chibi-warm-cup-v038/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/duo-chibi-wave-together-v039",
+      "label": "双Q版 · 一起挥手",
+      "group": "gif",
+      "file": "assets/gif/duo-chibi-wave-together-v039.gif",
+      "sha256": "edc0f874338bdc3af534b83ef73cc7afdd9ca7f881b41b3b5fa655d44cbeaf58",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "GPT girl",
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        400,
+        220,
+        480
+      ],
+      "total_duration_ms": 2200,
+      "loop": 0,
+      "background": "opaque pale blue-lavender with slight source variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: one animation sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns by 2 rows of equal 512 x 512 square cells. Read frames left to right, top row then bottom row. No visible grid or borders.\nCreate six sequential keyframes of TWO full-body chibi girls waving to EACH OTHER simultaneously. Use reference image 1 for the duo's exact chibi proportions, identity, clothing and polished cute anime illustration style ONLY; disregard its pose. Reference 2 refines GPT identity, reference 3 refines whale-girl identity only; do not copy reference layouts or poses.\nLEFT girl: GPT dragon girl, white and pale-purple long hair, purple eyes, pale-purple curved dragon horns with gold ornaments, skin-colored pointed elf ears, white-purple-gold layered outfit and purple dragon tail curling outward on the LEFT. RIGHT girl: whale girl, long wavy dark-blue to light-blue gradient hair, blue eyes, white-edged fin ears, blue-white frilled maid outfit, white frilled headband with hair curl and blue bows, small whale apron emblem, whale tail outward on the RIGHT. Match both reference identities distinctly. Exactly two arms and two hands per girl.\nIn EVERY square the combined duo silhouette must fit inside a centered 380px wide by 380px tall area, preferably x=66..446 and y=66..446. Keep at least 65px clean padding at all four cell edges. Full horns, head curl, ears, hair, hands, outer tails and BOTH shoes completely visible. Keep characters small enough for generous margins. Same exact camera, scale, baseline and standing positions throughout, fixed slight three-quarter frontal camera, heads turned slightly toward each other, happy warm expressions. The figures stand side by side with a clear central air gap. Feet, torso, tails and most hair remain stationary. Only inner forearms and wrists animate. Each girl's OUTER hand stays resting at her own waist in every frame.\nSix frames:\n1 top-left: both girls open-eyed smiling, both of each girl's hands resting near her own waist. No contact.\n2 top-middle: LEFT girl's inner hand on the screen-right side and RIGHT girl's inner hand on the screen-left side both lift on bent forearms to beside their own inner shoulders, palms open, fingers visible. Palms remain separate.\n3 top-right: both inner wrists tilt the open palms slightly toward the central air gap to wave AT the other girl. Visible wrist/forearm articulation. Clear air gap between palms, at least 25 pixels, never touch.\n4 bottom-left: both inner wrists tilt the open palms away from the center, completing one small side-to-side friendly wave. Happy closed smiling eyes allowed only here. Hands remain beside each girl's own shoulder, distinct wrist angle from frame 3. No contact.\n5 bottom-middle: eyes open, palms rotate back toward neutral while inner forearms lower toward chest/waist.\n6 bottom-right: return to frame 1, both hands at each girl's own waist, open eyes and small smile. Match starting body pose closely.\nThis is mutual waving, NOT high-five, NOT handholding, NOT palm contact, NOT fistbump, NOT touching the other person's body. Preserve a visible gap between the two waving hands. Movement must come from actual bent forearms and changing wrist angles, never from moving the whole drawings.\nBackground: perfectly flat uniform opaque light blue-lavender #E3E6FA, identical over the entire sheet. Clean polished anime line art and soft cel shading on characters only. Absolutely no background shadows, gradients, texture, patterns, floor, sparkles, hearts, motion symbols, props, text, labels, watermarks or grid lines. No cropping. Do not enlarge the characters to fill the cells.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Primary duo chibi proportions, exact clothing identities and polished style; old shoulder action ignored"
+        },
+        {
+          "name": "chibi-wave.png",
+          "role": "GPT identity refinement only; original wave pose not copied"
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Whale identity refinement only; sheet layout/poses not copied",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/duo-chibi-wave-together-v039/sheet.png",
+      "source_frames": [
+        "sources/duo-chibi-wave-together-v039/frames/frame-01.png",
+        "sources/duo-chibi-wave-together-v039/frames/frame-02.png",
+        "sources/duo-chibi-wave-together-v039/frames/frame-03.png",
+        "sources/duo-chibi-wave-together-v039/frames/frame-04.png",
+        "sources/duo-chibi-wave-together-v039/frames/frame-05.png",
+        "sources/duo-chibi-wave-together-v039/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/gpt-anime-adjust-glasses-v040",
+      "label": "动漫GPT娘 · 轻扶眼镜",
+      "group": "gif",
+      "file": "assets/gif/gpt-anime-adjust-glasses-v040.gif",
+      "sha256": "651ba46c55cb05f7a9884fbd409998f969fff0adcaaef4c731381c912278ee02",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "adult anime",
+      "characters": [
+        "GPT girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        400,
+        220,
+        480
+      ],
+      "total_duration_ms": 2200,
+      "loop": 0,
+      "background": "opaque pale lavender with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 square cells. Sequence reads left to right, top row then bottom row. No visible grid or borders.\nCreate six sequential keyframes of ONE ADULT ANIME GPT dragon woman gently adjusting her eyeglasses once, then returning her hand to her waist. Reference image 1 supplies original identity and adult proportions; reference image 2 supplies the current adult half-body linework and exact clothing. Ignore ALL old hand poses in both references. This is an adult anime portrait, NOT chibi and NOT a whale girl.\nIdentity in EVERY frame: white and pale-lavender long flowing hair with a side braid, purple eyes, two pale-purple curved dragon horns with gold ornaments, skin-colored pointed elf ears, white-purple-gold clothing (dark purple sleeveless high-neck ribbed bodice, wide white hanging sleeves, purple waist wrap and gold floral fasteners), purple dragon tail curling to screen left. Preserve her mature adult face, shoulders and torso proportions from references. Exactly two arms and two hands.\nAdd ONE delicate thin metal purple-and-gold rounded eyeglass frame, worn properly on her nose and ears in ALL SIX frames. The glasses stay on throughout, with the same size and shape. Fully transparent clear lenses, both purple eyes visible through them, no glare, reflections, tint or opaque lens highlights. The frame only shifts very slightly during the adjustment and is never removed.\nComposition: centered half-body or upper-thigh portrait fully contained inside EACH square, with an intentional finished skirt hem visible within the square, not a canvas cut through the skirt. Complete horns, hair, visible ears, tail and both hands remain within the cell. Subject height at most 380px, width at most 350px; aim for at least 65px clean padding on every cell edge. Fixed slight three-quarter frontal camera, scale, head, torso and tail position across all frames. Do not enlarge the portrait to fill the square. The non-acting hand on screen LEFT stays resting at her waist for all six frames. Only the screen-RIGHT arm performs the action, with visible changes at shoulder, elbow and wrist, not by translating the whole figure.\nSix frames:\n1 top-left: open purple eyes, gentle neutral smile, BOTH hands resting in front of her waist. Eyeglasses already on.\n2 top-middle: screen-right forearm bends upward; fingertips approach the outer upper corner / hinge of the eyeglass frame on the SAME screen-right side of her face, not yet contacting it. Other hand stays at waist.\n3 top-right: the screen-right thumb and index finger lightly pinch or touch that screen-right upper OUTER rim / temple-hinge connection. A clear readable contact with the delicate frame, one subtle glasses adjustment, with other fingers naturally curled. Do not poke the eye, touch the ear, point upward or hold the bridge. Glasses remain worn and nearly stationary. Do not cover either eye or the whole face.\n4 bottom-left: briefly hold the same light rim-hinge contact; a warm small smile and gently closed smiling eyes. Same glasses still worn in place, tiny adjustment complete. Fingers attach clearly to her own wrist and forearm; no extra hands or fingers.\n5 bottom-middle: purple eyes open; the screen-right fingertips release the frame and the forearm lowers toward her chest/waist, clear air gap between hand and glasses. Non-acting hand unchanged.\n6 bottom-right: return to the starting pose, both hands at waist, eyes open, gentle smile, glasses still on in their original position. Match frame 1 closely for a short loop.\nThis must read as a complete start-lift-contact-release-lower-return cycle, not just blinking, not a pointing gesture, not pulling an ear, not removing glasses. The fingertips-to-frame contact in frames 3 and 4 is the key action.\nStyle: clean polished adult anime line art and soft cel shading on the character only. Background is perfectly flat uniform opaque pale lavender #EDE5FA, identical across the entire sheet. No shadows on background, gradients, texture, pattern, floor, text, labels, watermark, icons, sparkles, motion lines, extra props or grid lines. No unexpected cropping.",
+      "references": [
+        {
+          "name": "illustration-explain.png",
+          "role": "Original adult GPT identity, face, hair, horns, skin-colored pointed ears, white-purple-gold clothing and tail; pointing pose and dark background ignored"
+        },
+        {
+          "name": "frame-01.png",
+          "role": "Recent adult half-body anime linework, proportions and exact clothing; waist hands only as a neutral reference, palms-thanks action ignored"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/gpt-anime-adjust-glasses-v040/sheet.png",
+      "source_frames": [
+        "sources/gpt-anime-adjust-glasses-v040/frames/frame-01.png",
+        "sources/gpt-anime-adjust-glasses-v040/frames/frame-02.png",
+        "sources/gpt-anime-adjust-glasses-v040/frames/frame-03.png",
+        "sources/gpt-anime-adjust-glasses-v040/frames/frame-04.png",
+        "sources/gpt-anime-adjust-glasses-v040/frames/frame-05.png",
+        "sources/gpt-anime-adjust-glasses-v040/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/whale-chibi-pillow-rest-v041",
+      "label": "Q版鲸鱼娘 · 抱枕休息",
+      "group": "gif",
+      "file": "assets/gif/whale-chibi-pillow-rest-v041.gif",
+      "sha256": "0cf9abd3e27b86b486251f79acc0e6dd8c0f5bf1c1d6e99b858d25c9ec132620",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        400,
+        220,
+        480
+      ],
+      "total_duration_ms": 2200,
+      "loop": 0,
+      "background": "opaque pale blue with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 square cells. Six sequential keyframes read left to right across top row, then bottom row. No visible grid or panel borders.\nPrimary request: ONE small CHIBI whale girl sitting and lifting a plain soft cushion from her lap to gently hug and nuzzle it, then lowering it to her lap again.\nReference image 1 supplies the recent chibi identity, blue-white maid clothing, polished linework and proportions ONLY; completely remove and ignore its cup and standing pose. Reference image 2 supplies the original community whale-girl identity and outfit details ONLY; ignore its multi-view layout.\nIdentity in EVERY frame: long wavy blue-gradient hair, bright blue eyes, white-edged fin ears, white frilled maid headband with blue bows, a blue ring-shaped ahoge above the head, dark blue and white frilled maid dress with gold small bow accents, white apron with blue whale emblem, white frilled socks and dark blue shoes, one complete blue whale tail curling at her screen-right side. Same very cute chibi face and proportions as references. No white hair, dragon horns, purple eyes, dragon tail or second character. Exactly two arms and two hands.\nProp: exactly ONE small square pale cream soft fabric cushion with a simple perimeter seam. Entirely blank, no lettering, face, emblem, whale design, printed pattern, buttons or decorative symbols. Same cushion in all six frames, continuously held by the SAME two hands; never floating or changing into a cup, book or whale plush. Cushion modest enough that her nose and mouth remain visible at all times.\nComposition: fixed slight three-quarter frontal view. Her bottom rests in the same place; she sits with both legs naturally bent forward, complete legs, socks and both shoes visible in front of the skirt. Keep sitting hips, legs, shoes, tail and body proportions nearly fixed throughout. The complete girl plus cushion plus tail should fit within at most 380 x 380 pixels in EACH 512 square, aiming for at least 65 pixels of clean empty background on all four sides. Make the subject SMALL within each cell. Complete ahoge, headband, fin ears, hair ends, cushion, shoes and tail must never be cut off. No floor, seat, ground shadow or ground line.\nSix frames, a single clear continuous lift-hug-nuzzle-release-lower-return cycle:\n1 TOP LEFT: open eyes and gentle smile; both hands separately grip opposite SIDE edges of the cushion, which lies low on her lap. Elbows low, hands visibly connected to their own wrists and forearms.\n2 TOP MIDDLE: bend both elbows to lift the SAME cushion to chest height. Both hands remain holding opposite sides. Clear upward movement of cushion and forearms relative to fixed legs.\n3 TOP RIGHT: draw both arms inward to gently hug the soft cushion against her chest. Its upper edge rises near one cheek. Chin lowers slightly but nose and mouth are not hidden. Each wrist still connects to its corresponding forearm.\n4 BOTTOM LEFT: eyes gently closed with a tender small smile; head tilts slightly forward and toward the cushion so ONE CHEEK LIGHTLY TOUCHES the cushion's upper corner. This cheek-to-cushion contact must be visible and readable. Arms gently squeeze inward and the soft cushion compresses just a little at the held sides, with subtle soft folds, not a large deformation. Do not cover the entire face or fin ears.\n5 BOTTOM MIDDLE: lift her head away from the cushion, open blue eyes, release the inward hug so the hands return toward the two side edges, and begin lowering cushion toward lap.\n6 BOTTOM RIGHT: cushion low on her lap again, hands holding its two side edges, open eyes and gentle smile. Return close to frame 1.\nAction must come from the actual bending/lifting/lowering of her elbows and forearms, inward hug, small head tilt and cheek contact; do not substitute translating or scaling the entire girl, only blinking, or six unrelated poses. Keep lower body and tail stable.\nStyle: polished chibi anime line art and soft cel shading, consistent clothing and identity in all cells. Background is perfectly flat uniform opaque pale blue #D8EFFB across the entire sheet, no gradient, texture, scenery, floor shadow, vignette or decoration. No text, numbers, labels, watermark, grid, sparkles, hearts, motion lines or extra props.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent chibi whale identity, polished linework, proportions and exact blue-white maid clothing; standing pose and cup ignored and removed."
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Original community whale-girl identity, blue-gradient hair, fin ears, ring ahoge, maid outfit, whale apron, tail and shoes; multi-view layout ignored.",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/whale-chibi-pillow-rest-v041/sheet.png",
+      "source_frames": [
+        "sources/whale-chibi-pillow-rest-v041/frames/frame-01.png",
+        "sources/whale-chibi-pillow-rest-v041/frames/frame-02.png",
+        "sources/whale-chibi-pillow-rest-v041/frames/frame-03.png",
+        "sources/whale-chibi-pillow-rest-v041/frames/frame-04.png",
+        "sources/whale-chibi-pillow-rest-v041/frames/frame-05.png",
+        "sources/whale-chibi-pillow-rest-v041/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/duo-anime-toast-v042",
+      "label": "双动漫版 · 轻碰杯",
+      "group": "gif",
+      "file": "assets/gif/duo-anime-toast-v042.gif",
+      "sha256": "b2c855675a62e0d83487fafdb0a47a55982060054d603a52599743f88cae49c0",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "adult anime",
+      "characters": [
+        "GPT girl",
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        400,
+        220,
+        480
+      ],
+      "total_duration_ms": 2200,
+      "loop": 0,
+      "background": "opaque pale blue-lavender with slight source variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE six-keyframe animation sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 square cells, chronological reading order left-to-right top row then bottom row. NO visible grid lines or cell borders.\nCreate two ADULT ANIME WOMEN side by side gently clinking TWO small plain white ceramic mugs once and bringing them back. Image 1 is the GPT woman identity/clothing/linework reference only; ignore its old thanks pose and do not add glasses. Image 2 is the whale woman identity/clothing reference only; ignore its shrug pose. Both women must have matching mature adult anime proportions and rendering, NOT chibi. Keep their identities separate.\nLEFT GPT woman: long white/pale lavender flowing hair with side braid, purple eyes, paired pale-purple curved dragon horns with gold ornaments, SKIN-COLORED pointed ears, white-purple-gold outfit with dark purple ribbed high-neck sleeveless bodice, hanging white sleeves, purple waist wrap and gold floral fasteners, purple dragon tail curling on her outer left.\nRIGHT whale woman: long wavy blue gradient hair, blue eyes, white-edged blue fin ears, white lace maid headband and loop-shaped blue ahoge, blue-white maid dress with whale motif on apron, blue whale tail on her outer right. Do not give her dragon horns or pointed skin ears.\nCOMPOSITION IN EVERY CELL: fixed side-by-side adult upper-body/upper-thigh portrait, same heads, torsos, scale, placement and camera throughout. Intentionally finish the short visible skirt hems inside each square. Both figures together fit within an approximately 380 x 380px area centered in the 512 square with at least 65px clean padding on all four sides; do not enlarge them to fill the cells. All horns, fin ears, ahoge, hair ends, tails, hands and mugs fully contained. Heads and gaze can turn slightly toward one another. Action must be real shoulder/elbow/forearm bending and extending, not whole-image translation or zoom.\nExactly TWO IDENTICAL SMALL PLAIN WHITE OPAQUE CERAMIC MUGS in EACH cell, ONE mug per woman, upright throughout, no text or pictures, no visible liquid, no steam, no spills. GPT's INNER hand on screen-right continuously holds her OWN left mug through its handle on that mug's LEFT side. Whale's INNER hand on screen-left continuously holds her OWN right mug through its handle on that mug's RIGHT side. Thus both handles point OUTWARD away from the central cup-to-cup contact. Make the fingers, handle connection, wrist, forearm ownership readable. No floating cups. No extra hands. The non-acting OUTER hand of each woman stays resting at her own waist for all six frames. They never touch each other's hands or exchange mugs.\nSix frames:\n1 TOP LEFT: open eyes, warm smile. Each woman holds her mug near her own chest, with a clear wide air gap between the two mugs.\n2 TOP MIDDLE: both INNER forearms extend toward the center; mugs approach one another at equal height, still visibly separated by a small air gap.\n3 TOP RIGHT: a real gentle toast. The OUTER UPPER RIMS of the TWO mug bodies meet at ONE small central contact point. Their solid white bodies remain visibly two separate mugs touching edge-to-edge, not overlapping, fused or passing through each other. Both mugs upright; each outer-side handle and holding hand remains distinct.\n4 BOTTOM LEFT: hold the same actual mug-rim contact at center, two distinct upright mugs, gently closed smiling eyes allowed. No crossing or interpenetration, no hand contact, no liquid, no drinking.\n5 BOTTOM MIDDLE: both forearms withdraw toward their own chests; the mugs have separated again with a visible air gap.\n6 BOTTOM RIGHT: return close to frame 1, each mug at its own woman's chest, eyes open, warm smiles, clear wide cup gap.\nThe key action MUST include actual rim-to-rim contact in frames 3 and 4 and visible approach/release in surrounding frames. Do not merely blink while holding separated mugs. Keep the mugs below faces and nowhere near mouths.\nStyle: polished adult anime linework and soft cel shading on characters only, coherent with both references. Perfectly flat uniform opaque pale blue-lavender background #E9EAF8, identical over the entire sheet. No background gradients, textures, floor, shadows, effects, motion symbols, sparkles, text, labels, watermarks, borders, extra objects or people.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Adult anime GPT identity, clothing, linework, adult proportions; old thanks action ignored, no glasses added."
+        },
+        {
+          "name": "frame-01.png",
+          "role": "Adult anime whale identity, blue hair, fin ears, maid outfit, ahoge and tail; old shrug action ignored.",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/duo-anime-toast-v042/sheet.png",
+      "source_frames": [
+        "sources/duo-anime-toast-v042/frames/frame-01.png",
+        "sources/duo-anime-toast-v042/frames/frame-02.png",
+        "sources/duo-anime-toast-v042/frames/frame-03.png",
+        "sources/duo-anime-toast-v042/frames/frame-04.png",
+        "sources/duo-anime-toast-v042/frames/frame-05.png",
+        "sources/duo-anime-toast-v042/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/gpt-anime-crossarms-think-v043",
+      "label": "动漫GPT娘 · 抱臂思考",
+      "group": "gif",
+      "file": "assets/gif/gpt-anime-crossarms-think-v043.gif",
+      "sha256": "3e460457e3796700a61f2091d233b9f32ddf80287ff00bc7fa43dc536b2f3658",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "adult anime",
+      "characters": [
+        "GPT girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        700,
+        220,
+        480
+      ],
+      "total_duration_ms": 2500,
+      "loop": 0,
+      "background": "opaque pale lavender with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation keyframe sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 cells. Read left to right across top row, then bottom row. No visible grid or borders.\nCreate six sequential keyframes of ONE ADULT ANIME GPT dragon woman folding both arms across her chest in thought, then unfolding them back to rest. Image 1 is the recent adult half-body identity, outfit and clean linework reference; ignore its thanks action. Image 2 is original adult identity and proportions; ignore its pointing pose and dark backdrop. Use these as character references, not poses. No eyeglasses, no props, no whale girl, no chibi proportions.\nIdentity in EVERY frame: mature adult anime face and torso proportions; white and pale-lavender long flowing hair with a side braid, purple eyes, two pale-purple curved dragon horns with gold ornaments, skin-colored pointed elf ears, white-purple-gold outfit with dark-purple sleeveless high-neck ribbed bodice, wide white hanging sleeves, purple waist wrap and gold floral fasteners, purple dragon tail curling toward screen left. Exactly two arms and two hands, with clear shoulder-elbow-wrist ownership.\nComposition: fixed slight three-quarter frontal camera, centered half-body through upper-thigh portrait, with complete horns, ears, hair, tail, both hands and sleeves kept INSIDE EACH cell. Skirt hem and thighs intentionally end within the portrait inside the cell, never against the cell edge. Keep subject about 380px tall and 350px wide, at least 65px empty padding on all four sides. Leave visible pale-lavender air under the finished figure. Same head, torso, tail position and scale in every frame. No whole-image translation or zoom.\nSix keyframes:\n1 TOP LEFT: eyes open, gentle neutral expression, both arms relaxed, both hands naturally resting in front of the waist.\n2 TOP MIDDLE: her RIGHT forearm, on the viewer's LEFT, bends inward across her lower chest, with her right hand moving toward her own left upper arm on viewer's right. Her LEFT forearm begins lifting from viewer's right, preparing to cross. Show a clear intermediate shoulder and elbow motion.\n3 TOP RIGHT: TRUE FOLDED ARMS across the chest. Her RIGHT arm starts at her right shoulder on viewer's left and bends across toward viewer's right, its right hand resting on the OUTSIDE of her own LEFT upper arm near the left outer elbow. Her LEFT arm starts at her left shoulder on viewer's right and bends across toward viewer's left, its left hand resting on the OUTSIDE of her own RIGHT upper arm near the right outer elbow. Both elbows are below the crossed forearms. The two forearms visibly overlap across the torso; each hand belongs to its continuous forearm and touches the opposite upper arm. The hands are far apart at the sides, never touching each other in the middle. Sleeves overlap logically without concealing the readable crossed-arm pose. Two hands total.\n4 BOTTOM LEFT: maintain the SAME true crossed arms and same hand placement from frame 3. Thoughtful brows, head tilts very slightly downward and sideways, eyes open glancing a little upward to one side. No hand touches chin, head or face, and no pointing finger. Thoughtful and composed, not shy or angry.\n5 BOTTOM MIDDLE: arms visibly UNFOLDING; her left hand has released the opposite arm and moves back down toward the waist on viewer's right, while her right forearm lowers away from the chest on viewer's left. Clear separation from the folded pose, with wrists remaining attached to their own arms.\n6 BOTTOM RIGHT: return close to frame 1, both hands resting naturally in front of the waist, eyes open, gentle neutral expression and head upright.\nThe main animation is actual shoulders, elbows and forearms bending, crossing, holding and unfolding; not just blinking. Frames 3 and 4 MUST visibly be crossed arms, not palms together, clasped hands, fist-in-palm, clapping, praying, chin-resting or a pointing pose. Keep wide sleeves clear of face, horns and ears. No extra hands, disconnected wrists or fused limbs.\nStyle: polished clean adult anime line art, soft cel shading on character only. The entire background is perfectly flat uniform opaque pale lavender #EDE5FA, identical in every cell, no gradient, texture, lighting effects or shadows. No text, numbers, captions, labels, watermark, symbols, hearts, sparkles, motion lines or borders.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent adult half-body GPT identity, exact white-purple-gold clothing and clean linework; ignore thanks action."
+        },
+        {
+          "name": "illustration-explain.png",
+          "role": "Original adult identity and proportions, hair, horns, skin-colored pointed ears, clothing and tail; ignore pointing pose and dark background."
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/gpt-anime-crossarms-think-v043/sheet.png",
+      "source_frames": [
+        "sources/gpt-anime-crossarms-think-v043/frames/frame-01.png",
+        "sources/gpt-anime-crossarms-think-v043/frames/frame-02.png",
+        "sources/gpt-anime-crossarms-think-v043/frames/frame-03.png",
+        "sources/gpt-anime-crossarms-think-v043/frames/frame-04.png",
+        "sources/gpt-anime-crossarms-think-v043/frames/frame-05.png",
+        "sources/gpt-anime-crossarms-think-v043/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/whale-chibi-sleepy-rubeye-v045",
+      "label": "Q版鲸鱼娘 · 困困揉眼",
+      "group": "gif",
+      "file": "assets/gif/whale-chibi-sleepy-rubeye-v045.gif",
+      "sha256": "bdf385f844cc110d9aff33e71f746a9bb99134c16961e58aa2697bf0364b6100",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        400,
+        220,
+        480
+      ],
+      "total_duration_ms": 2200,
+      "loop": 0,
+      "background": "opaque pale blue with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE six-keyframe animation sprite sheet, exactly 1536 x 1024 pixels. Strict 3 columns and 2 rows of equal 512 x 512 cells, read left-to-right on top row then bottom row. No visible grid, cell borders, numbers or text.\nCreate ONE small full-body CHIBI WHALE MAID GIRL performing a sleepy gentle eye-rub and returning to rest. Reference image 1 is recent full-body identity, costume, proportions and clean linework; REMOVE the cup entirely. Reference image 2 is the community whale-girl character identity; ignore its multi-view layout and poses. Both are character references, not layout references.\nIdentity in EVERY cell: adorable large chibi head and tiny body, long wavy deep-blue hair fading to light blue curled ends, blue eyes, dark blue fin ears with white edges, blue ribbon bows beside ears, white lace maid headband, loop-shaped blue ahoge, navy-blue and white lace maid dress with blue whale emblem on white apron, short white frilly socks, blue shoes, blue whale tail curving to viewer's right. Exactly two arms, two hands, two legs, no dragon horns, no white hair, no purple eyes, no other character. No cup, pillow or other prop.\nComposition: same fixed slight three-quarter frontal camera and full-body standing pose in all six cells. Keep head, torso, legs, feet and tail anchored at the same positions and size; only the chosen forearm, hand, eyelids and tiny head inclination animate. Make each complete figure no more than about 380 pixels tall AND 380 pixels wide, centered in its 512-square cell with at least 65 pixels of clear empty space on every side. Include complete loop ahoge, headband, fin ears, every hair curl, hands, shoes and tail. Keep visible empty pale-blue space below shoes. No crop, no whole-image shift, no zoom.\nSix sequential keyframes:\n1 TOP LEFT: both hands naturally resting in front of her waist, eyes open with a slightly sleepy soft smile.\n2 TOP MIDDLE: the forearm on the VIEWER'S RIGHT lifts from the waist, bending at its connected elbow. That hand makes a small relaxed loose fist and approaches the cheek directly UNDER the outer corner of her SAME-SIDE eye on viewer's right. Her OTHER hand stays at her waist throughout. Eyes still partly open and drowsy. Show a real lifted forearm, not a floating hand.\n3 TOP RIGHT: BOTH eyes gently CLOSED. The BACK of the relaxed fist's curled fingers or knuckles lightly rests against her cheek just BELOW and OUTSIDE the closed eye on viewer's right. Clear hand-to-under-eye-cheek contact, connected wrist and forearm, elbow visibly bent. Do not poke the eyeball, pull the fin ear, touch the forehead, or cover nose, mouth or whole face. The opposite hand remains at waist.\n4 BOTTOM LEFT: BOTH eyes remain CLOSED. Keeping the same fist against the same under-eye outer cheek, move the wrist a SMALL distance along that cheek to complete one gentle rubbing stroke, visibly different from frame 3. She may incline her head just a little toward the hand; body, feet and tail stay still. The knuckles still touch the cheek below the eye, never the eyeball or fin ear. Opposite hand remains at waist.\n5 BOTTOM MIDDLE: the rubbing hand has LEFT the cheek and lowers to chest height, clearly separated from the face with its forearm descending; BOTH eyes reopen. Other hand still at waist.\n6 BOTTOM RIGHT: both hands again at waist as in frame 1; eyes open with the same sleepy gentle smile and upright head.\nThe action MUST show true forearm raising, relaxed-fist contact under the eye, a small rubbing movement, release and lowering. It is not just blinking or whole-body shifting. Keep exactly two anatomically connected arms and hands; no extra fingers or disembodied hands.\nStyle: polished clean chibi anime line art with soft cel shading on the character only, matching the supplied references. Entire canvas is one perfectly uniform flat opaque pale blue #D7EDFA, identical across all cells. No floor, ground shadow, texture, gradient, lighting effects, motion lines, decorative icons, sparkles, text, watermark or border.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent full-body chibi whale-girl identity, costume, proportions and clean linework; remove the cup entirely; not a layout reference."
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Community whale-girl identity including blue-gradient curled hair, fin ears, maid headband, apron and tail; ignore multi-view layout and poses; not official exclusive design.",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/whale-chibi-sleepy-rubeye-v045/sheet.png",
+      "source_frames": [
+        "sources/whale-chibi-sleepy-rubeye-v045/frames/frame-01.png",
+        "sources/whale-chibi-sleepy-rubeye-v045/frames/frame-02.png",
+        "sources/whale-chibi-sleepy-rubeye-v045/frames/frame-03.png",
+        "sources/whale-chibi-sleepy-rubeye-v045/frames/frame-04.png",
+        "sources/whale-chibi-sleepy-rubeye-v045/frames/frame-05.png",
+        "sources/whale-chibi-sleepy-rubeye-v045/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/duo-chibi-share-note-v046",
+      "label": "双Q版 · 分享便签",
+      "group": "gif",
+      "file": "assets/gif/duo-chibi-share-note-v046.gif",
+      "sha256": "aa4387064d6cbad7c7f66fd9514749f4445b6156f15ff04a28530d29c2c3cc0b",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "GPT girl",
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        500,
+        220,
+        480
+      ],
+      "total_duration_ms": 2300,
+      "loop": 0,
+      "background": "opaque pale blue-lavender with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation keyframe sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns by 2 rows of equal 512 x 512 cells, sequence left-to-right top row then bottom row. No visible grid, frames, labels or borders.\nPrimary request: six sequential keyframes of TWO FULL-BODY CHIBI girls sharing a look at ONE BLANK PAPER NOTE, then returning to rest. Image 1 is the recent duo chibi identity, clothing and proportions reference; ignore the waving action. Image 2 is a supporting whale-girl identity/detail reference; ignore its character-sheet layout. Preserve the cute clean-line cel-shaded rendering of image 1, NOT adult anime proportions. Keep GPT on the viewer's LEFT and whale girl on the viewer's RIGHT in every cell.\nIdentities: GPT has long white/pale-lavender hair with a side braid, purple eyes, paired curved pale-purple dragon horns with gold ornaments, skin-colored pointed elf ears, white-purple-gold clothing with purple bodice, wide white sleeves, short layered skirt, purple-and-white shoes, and a purple dragon tail curling to screen left. Whale girl has long blue-to-light-blue wavy hair, blue eyes, white-edged dark-blue fin ears, white lace maid headband, a large curved loop-shaped ahoge, blue-white maid dress, white apron with a small blue whale emblem, dark-blue shoes and blue whale tail curling to screen right. Exactly two arms/two hands per girl, hands continuously attached to their own forearms.\nComposition: fixed slight three-quarter frontal camera, BOTH entire bodies, horns, ahoge, ears, all hair, tails, arms, shoes and paper fully inside each square. The combined duo including BOTH tails and paper should fit approximately 380px wide AND 380px tall, centered with at least 65px empty air on all four sides in EACH 512px cell. Keep the girls' feet, torso scale, standing places, tails and basic head positions fixed across all six frames. Allow only subtle head tilt. No whole-image translation, zoom, walking or large body motion.\nThe ONE prop: exactly ONE plain cream-colored rectangular sheet of paper, vertical portrait orientation, about 60px wide x 80px high within each cell. It has NO writing, NO lines, NO grid, NO icons, NO pattern, NO fold, NO binding. GPT's INNER hand is her own LEFT hand at viewer right; it ALWAYS pinches the LEFT LOWER SIDE/CORNER of this same paper throughout all six frames, with thumb visibly resting on that left lower edge. The paper NEVER changes owner, never duplicates and never flips. Whale girl's INNER hand is her own RIGHT hand at viewer left; she only points at the RIGHT HALF of the paper with her index finger and never grabs or holds it. GPT's OUTER hand (her right at viewer left) remains at her own waist in every frame. Whale girl's OUTER hand (her left at viewer right) remains at her own waist in every frame. No arms or fingers touching each other.\nSix animation frames:\n1 TOP LEFT: both girls' eyes open, soft friendly smiles. GPT bends her inner left elbow, holding the single vertical paper against HER OWN chest, its blank front facing the audience, her left fingers pinching its lower-left side. GPT outer hand at her own waist. Whale girl has BOTH hands at her own waist, not touching paper.\n2 TOP MIDDLE: GPT's inner left forearm visibly EXTENDS toward the center gap, carrying the same paper out from her chest into the gap BETWEEN the two girls at chest height, front still facing the audience. Her left fingers retain the same lower-left-edge grip. Whale girl's inner right forearm starts raising from her own waist, hand open preparing the pointing index finger. Both outer hands stay at their respective waists.\n3 TOP RIGHT: the paper is upright in the CENTRAL GAP at chest height, held ONLY by GPT's inner left fingers at the paper's lower-left edge. Whale girl's inner RIGHT elbow bends and her own right index finger points clearly to or lightly touches the RIGHT HALF of the blank paper front. Her index finger, hand, wrist and forearm visibly connect back to HER OWN right shoulder. No grip by whale girl and no second paper. Both girls glance gently toward the note; both faces and ears remain unobscured.\n4 BOTTOM LEFT: HOLD the same central-paper pose and GPT lower-left-edge grip. Whale girl's inner right index still points clearly to the paper's right half. The two girls make a small pleased head tilt and smile while checking the paper together. Both outer hands still at their own waists. Keep eyes open, paper below faces, ears/horns visible.\n5 BOTTOM MIDDLE: whale girl RELEASES the pointing gesture, her inner right hand moves AWAY from paper and visibly descends toward her own waist. GPT bends her inner left elbow to DRAW the same paper back toward HER OWN chest, maintaining her sole lower-left-side grip. Paper is between central and starting positions. Outer hands remain at each girl's own waist.\n6 BOTTOM RIGHT: return close to frame 1: GPT alone holds the same vertical blank paper at her own chest by its lower-left side, whale girl's BOTH hands are back at her own waist, both eyes open and smiling, heads upright.\nAction priority: readable actual forearm extension showing the note, whale girl's index-finger lift/point/withdrawal, and GPT's return movement. This is sharing/viewing a note, NOT handing it over or exchanging ownership. It must NOT resemble high-five, hand-holding, clapping or touching palms. Four hands total, one piece of paper total in every frame. No disconnected wrists, extra arms, fused hands, extra fingers or paper obscuring a face.\nBackdrop: perfectly uniform flat opaque pale blue-lavender #E4E8FA, identical across the entire sheet and every cell. Soft cel shading is on the characters only. NO background gradient, texture, floor, cast shadow, glow, lighting effects, motion lines, hearts, stars, sparkles, symbols, text, captions, watermarks or numbers.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent full-body duo chibi identity, white-purple-gold GPT clothing, blue-white whale maid clothing, hair, horns, ears, tails and proportions; ignore waving pose."
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Supporting whale-girl identity details: blue gradient wavy hair, white-edged fin ears, lace maid headband, loop ahoge, maid dress, whale apron and blue tail; ignore reference-sheet layout.",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/duo-chibi-share-note-v046/sheet.png",
+      "source_frames": [
+        "sources/duo-chibi-share-note-v046/frames/frame-01.png",
+        "sources/duo-chibi-share-note-v046/frames/frame-02.png",
+        "sources/duo-chibi-share-note-v046/frames/frame-03.png",
+        "sources/duo-chibi-share-note-v046/frames/frame-04.png",
+        "sources/duo-chibi-share-note-v046/frames/frame-05.png",
+        "sources/duo-chibi-share-note-v046/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/gpt-chibi-fist-cheer-v047",
+      "label": "Q版GPT娘 · 握拳打气",
+      "group": "gif",
+      "file": "assets/gif/gpt-chibi-fist-cheer-v047.gif",
+      "sha256": "3527ece0d4c06b2af663ca8b897f2c004a98f215679c9bfe980e2f80167c9c53",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "GPT girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        180,
+        260,
+        360,
+        200,
+        400
+      ],
+      "total_duration_ms": 2000,
+      "loop": 0,
+      "background": "opaque pale lavender with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation keyframe sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 cells. Six consecutive frames read top row left to right then bottom row. No visible grid, borders, labels or text.\nCreate six sequential keyframes of ONE FULL-BODY CHIBI GPT dragon girl doing a small encouraging closed-fist pump, raising and lowering her LEFT arm on the VIEWER'S RIGHT. Image 1 is the recent chibi full-body identity, proportions and clothing reference; ignore its thumbs-up context and do not draw a thumbs-up. Image 2 is the original chibi identity reference; ignore its waving action. Use both as identity references only. Large cute head and short chibi body, NOT adult anime proportions. No whale girl, no glasses, no props.\nIdentity in all six cells: white and pale-lavender long flowing hair and a side braid, purple eyes, two pale-lavender curved dragon horns with gold bands, skin-colored pointed elf ears, purple flower and ribbon hair ornament, white-purple-gold clothing with dark purple sleeveless high-neck bodice, loose white sleeves, short skirt, white socks and purple-white shoes, purple dragon tail curling toward viewer left. Exactly two hands, each clearly connected through wrist and forearm to its own shoulder.\nFixed frontal slight three-quarter camera. Same head, torso, legs, feet and tail positions and same scale in all six cells. FULL body, complete horns, ears, hair, tail, hands and shoes. Center each figure with maximum height AND width about 380 pixels inside each 512 square. Aim for at least 65 pixels of empty lavender space on EVERY side. Do not enlarge the figure to fill the cell. No translation or zoom. The hand on VIEWER LEFT stays relaxed just in front of her own waist throughout all six frames.\nGesture anatomy: the moving hand is on VIEWER RIGHT, her own LEFT hand. A compact CLOSED FIST with ALL FOUR fingers naturally curled into the palm, thumb folded across the outside of the bent fingers. Show rounded knuckles and short curled finger creases. NO extended thumb, NO upright thumb, NO finger pointing up, NO finger heart, NO open palm during the raised action. Fist and wrist remain continuous with her own left forearm. The fist is encouragement, not a thumbs-up.\nFrame 1 TOP LEFT: gentle open-eyed smile, both hands relaxed loosely at the front of the waist.\nFrame 2 TOP MIDDLE: viewer-right elbow bends and forearm rises; closed fist reaches beside the same-side SHOULDER, below the cheek. Viewer-left hand remains at waist.\nFrame 3 TOP RIGHT: continue the SAME closed fist a small distance UP to beside the same-side LOWER CHEEK, slightly outside the face silhouette, without blocking eyes or ears, touching the head or rising above horn tips. Elbow and forearm visibly rotate upward. Cheerful encouraging smile. All fingers remain curled, thumb tucked across finger outsides.\nFrame 4 BOTTOM LEFT: the SAME closed fist moves DOWN again beside the shoulder, visibly lower than frame 3, completing one small up-down encouraging fist pump. Happy smile with briefly closed eyes is allowed. The fist remains closed, not thumbs-up. Head and body position remain fixed.\nFrame 5 BOTTOM MIDDLE: the moving hand visibly relaxes and opens loosely as forearm lowers toward chest-to-waist level, clearly below the shoulder. Viewer-left hand stays at waist.\nFrame 6 BOTTOM RIGHT: return close to frame 1, both relaxed hands at waist, eyes open and gentle smile, same full-body resting position.\nThe animation must show actual shoulder-elbow-wrist lifting and lowering, not just facial changes or shifting the entire image. Keep a clear height difference between the raised fists in frames 2, 3 and 4. No extra arms or fingers, fused or disconnected wrists, hand swapping, pose mirroring or reaching across the face.\nPolished clean cute chibi line art and soft cel shading on the character only. Entire background perfectly flat uniform opaque pale lavender #EDE5FA, exactly same in every cell. No gradient, texture, floor, cast shadow, aura, motion marks, stars, hearts, sparkles, symbols, watermark, numbers or writing.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent chibi GPT full-body identity, proportions, white-purple-gold outfit, horns, braid and tail; ignore thumbs-up context and do not copy a thumbs-up pose."
+        },
+        {
+          "name": "chibi-wave.png",
+          "role": "Original chibi GPT identity, hair, horns, skin-colored pointed ears, outfit and tail; ignore waving pose and transparency."
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/gpt-chibi-fist-cheer-v047/sheet.png",
+      "source_frames": [
+        "sources/gpt-chibi-fist-cheer-v047/frames/frame-01.png",
+        "sources/gpt-chibi-fist-cheer-v047/frames/frame-02.png",
+        "sources/gpt-chibi-fist-cheer-v047/frames/frame-03.png",
+        "sources/gpt-chibi-fist-cheer-v047/frames/frame-04.png",
+        "sources/gpt-chibi-fist-cheer-v047/frames/frame-05.png",
+        "sources/gpt-chibi-fist-cheer-v047/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/whale-anime-hand-on-chest-v048",
+      "label": "动漫鲸鱼娘 · 抚胸回应",
+      "group": "gif",
+      "file": "assets/gif/whale-anime-hand-on-chest-v048.gif",
+      "sha256": "943c9ee6f70ea9c7385b45a7d70ab635dbfa295b21c48e186dfd90272196b5ed",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "adult anime",
+      "characters": [
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        500,
+        220,
+        480
+      ],
+      "total_duration_ms": 2300,
+      "loop": 0,
+      "background": "opaque pale blue with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation keyframe sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 square cells. Reading order: top left, top middle, top right, bottom left, bottom middle, bottom right. No visible grid lines or borders.\nCreate six sequential keyframes of ONE ADULT ANIME whale woman giving a polite hand-over-upper-chest response and returning to rest.\nInput image 1 is the recent adult whale woman reference: preserve her adult face and torso proportions, blue-white maid clothing, hair, clean anime linework and tail; IGNORE the previous action. Input image 2 is the community whale-girl identity reference only: use blue gradient hair, white-edged fin ears, lace maid headband, loop-shaped ahoge and whale tail details; DO NOT use its chibi proportions, full-body framing, multiple views or sheet layout.\nIdentity in EVERY frame: one mature adult anime woman, blue eyes, long wavy dark-blue-to-light-blue gradient hair, two blue whale-fin ears with white edges, white lace maid headband with blue bows, one loop-shaped blue ahoge, blue-white conservative buttoned maid dress, intact white buttoned upper blouse and dark-blue bow at the collar, long blue sleeves with white frilled cuffs, white apron with a small blue whale emblem, blue whale tail curling toward the viewer's right. No white hair, purple eyes, dragon horns or purple tail. Exactly two arms and two hands.\nComposition: fixed slight three-quarter frontal camera, centered half-body portrait through the upper part of the skirt. Every cell shows the complete ahoge, headband, fin ears, hair ends, both sleeves, both hands and tail. The lower portrait ends naturally on a straight horizontal boundary within the cell, with empty background visible BELOW that boundary. Aim for subject height and width below 380 pixels, leaving at least 65 pixels of empty background on all four sides of every 512px cell. Same position, head size, torso orientation, tail position and camera throughout. No whole-image shift or zoom.\nSix keyframes:\n1 TOP LEFT: upright, eyes open, gentle welcoming smile, both relaxed hands naturally in front of her waist.\n2 TOP MIDDLE: her LEFT forearm, on the VIEWER'S RIGHT, bends upward. Her open hand with naturally close-together straight relaxed fingers lifts from the waist toward the upper blouse just below the collar bow and collarbones. Her other hand remains in front of her waist. Clearly show the intermediate forearm movement.\n3 TOP RIGHT: her LEFT open palm gently rests flat on her OWN UPPER BLOUSE, immediately BELOW the collar bow and below the collarbones. Her fingers are together and angled diagonally toward her opposite shoulder. The wrist is visibly connected to her own left forearm. This is a modest self-introduction or courteous acknowledgment gesture, with palm resting on clothing, not squeezing or pressing the breast. The collar bow remains substantially visible above the hand. Her other hand stays relaxed in front of her waist. Eyes open and gentle smile.\n4 BOTTOM LEFT: keep exactly the SAME open-palm contact on the upper blouse below the bow. She closes her eyes with a warm smile and gives a very slight polite downward head nod, not a deep bow. The upper body stays mostly upright, camera and torso stable. Hand never touches face, ear or hair, and does not obscure the entire collar bow. Fingers stay relaxed and together.\n5 BOTTOM MIDDLE: eyes reopen and head lifts upright. The LEFT palm has clearly released the blouse and is descending through the space between chest and waist. Show a real intermediate lowering forearm, while the other hand remains at waist.\n6 BOTTOM RIGHT: both hands return naturally to the front of the waist, eyes open and gentle smile, close to frame 1.\nThe principal movement is the real shoulder-elbow-forearm raising, open palm making visible contact with the upper clothing, holding briefly for a small nod, then lowering. Keep the outfit completely intact and buttoned in all frames. No pulling fabric, grabbing, fist, punching, chest compression, cleavage, hand-on-face, pointing, clapping, praying or paired palms. No extra hands, disconnected wrist or fused limbs.\nStyle: polished adult anime line art and soft cel shading on character only. Background fully opaque, clean uniform pale blue #E4F3FC across all six cells. No transparency, gradient, floor, ground shadow, texture or light effects. No text, numbers, labels, watermark, symbols, hearts, sparkles, motion marks or grid.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent adult whale woman identity, proportions, blue-white buttoned maid outfit, clean linework and tail; ignore previous action."
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Community whale-girl identity details: blue gradient hair, fin ears, lace headband, loop ahoge and whale tail; do not use chibi proportions, full-body framing or sheet layout.",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/whale-anime-hand-on-chest-v048/sheet.png",
+      "source_frames": [
+        "sources/whale-anime-hand-on-chest-v048/frames/frame-01.png",
+        "sources/whale-anime-hand-on-chest-v048/frames/frame-02.png",
+        "sources/whale-anime-hand-on-chest-v048/frames/frame-03.png",
+        "sources/whale-anime-hand-on-chest-v048/frames/frame-04.png",
+        "sources/whale-anime-hand-on-chest-v048/frames/frame-05.png",
+        "sources/whale-anime-hand-on-chest-v048/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/duo-chibi-raised-arm-stretch-v049",
+      "label": "双Q版 · 举臂伸展",
+      "group": "gif",
+      "file": "assets/gif/duo-chibi-raised-arm-stretch-v049.gif",
+      "sha256": "141cb0a866ee5af704e7dfccf26817e419dbb9cb119d54e45b4d0402b785f7c0",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "GPT girl",
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        700,
+        220,
+        480
+      ],
+      "total_duration_ms": 2500,
+      "loop": 0,
+      "background": "opaque pale blue-lavender with slight source tone/texture variation and palette quantization",
+      "prompt": "CORRECTION PRIORITY: this is an OVERHEAD STRETCH animation, not a cheer or hands-beside-cheeks animation. In keyframes 3 and 4 ALL FOUR HANDS must be fully ABOVE the TOPS of their respective heads, including above the dragon horns and above the whale ring ahoge. Lift BOTH upper arms upward from the shoulders, elbows above ear height, forearms reaching up. Both girls each make a tall relaxed U with her own two arms; no hands at cheek/ear height in frames 3 and 4. Allow enough arm reach to perform this clear overhead stretch. Keep hands well separated from horns, ahoge, and the other girl's hands.\nUse case: stylized-concept.\nAsset type: ONE animation keyframe sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 cells. Six frames in reading order: left to right across top row, then bottom row. No visible grid, labels or borders.\nPrimary request: two NON-ADULT SUPER-DEFORMED CHIBI girls, GPT dragon girl on the LEFT and whale maid girl on the RIGHT, standing side by side and each independently raising BOTH of her OWN arms into a relaxed overhead U-shaped morning stretch, then lowering them. Same two characters in every frame, full body, short chibi limbs and large heads, never adult proportions.\nInput images: Image 1 is the shared duo reference for chibi identities, exact clothing and proportions, with GPT left and whale right; ignore its waving/resting action. Image 2 is the whale girl's community character reference for fin ears, hair, maid headband, dress, apron, shoes and whale tail only; ignore its layout and poses. These are character references, not edit targets.\nIdentity in EVERY frame: LEFT GPT girl has white and pale-lavender long side-braided hair, purple eyes, paired curved pale-purple dragon horns with gold ornaments, SKIN-COLORED pointed ears, white-purple-gold short dress with dark-purple bodice, purple-white shoes and a purple dragon tail curling on her outside to the left. RIGHT whale girl has long blue-gradient wavy hair, blue eyes, white-edged fin ears, a white lace maid headband, a blue RING-SHAPED ahoge above the headband, blue-white maid dress, white apron with blue whale motif, blue shoes and a blue whale tail curling on her outside to the right. Both remain cute chibi girls, not adult women.\nComposition/framing: locked front slightly three-quarter camera, fixed full-body standing position, same head size and head center, torso, hips, legs, feet and tail placement in all six cells. No global translation or scaling. Leave enough horizontal gap that their inside arms also remain clearly separate. Their bodies never touch and all FOUR hands belong to their own respective shoulders and wrists. Make the entire duo, including BOTH overhead hands, horns, ring ahoge, tails and shoes, SMALL within each 512-square cell: target total duo bounding box no more than 380px wide AND 380px tall. At least 65px clean background on all four sides of every cell even during the highest stretch. Highest fingers remain inside the cell with air above them. Do not enlarge resting frames to fill their cells.\nSix sequential keyframes:\n1 TOP LEFT: both eyes open and smiling softly; each girl has exactly TWO hands resting naturally in front of her OWN waist. Four hands total. Feet planted and both bodies upright.\n2 TOP MIDDLE: each girl raises her OWN two elbows outward and bends her OWN forearms upward until her two hands are beside her OWN shoulders. Show real shoulder-elbow-wrist intermediate motion, four clearly separate hands.\n3 TOP RIGHT: each girl stretches BOTH her OWN arms upward in a relaxed open U shape. Each girl's two open hands are separately ABOVE and on EITHER SIDE of her OWN head, not above the other girl's head. Four hands total, naturally splayed fingers, palms separated. Continuous visible arms connect from her own shoulders through elbows to wrists. The inner hands are separated by open background and do not touch. Keep hands clear of eyes, ears, dragon horns and ring ahoge. Eyes open, gentle smile.\n4 BOTTOM LEFT: hold the SAME relaxed overhead U stretch, both girls CLOSE their eyes with satisfied happy smiles, shoulders rise very slightly. Four separate open hands remain above the sides of each girl's OWN head. Do not touch or hold hands, high five, touch horns, touch the ahoge, cover eyes or cross arms over the other girl.\n5 BOTTOM MIDDLE: both eyes reopen, each girl's two elbows bend and LOWER back to shoulder level and her own hands return beside her OWN shoulders. Clear lowering movement through shoulders, elbows and wrists.\n6 BOTTOM RIGHT: each girl's TWO hands return naturally in front of her OWN waist, eyes open and gentle smiles, close to frame 1. The same planted legs, feet, hips, head size and body centers.\nMotion must be genuine rising and lowering arms, not image translation or blinking alone. Exactly TWO arms and TWO hands per character, FOUR arms and FOUR hands total per cell; no extra arms, detached hands, missing arms, fused fingers, fused hands-and-horns, shared limbs or ambiguous ownership. Separate the two inner arms clearly. No props, paper cups, books or accessories beyond their character costume. No touching between girls.\nStyle/medium: polished adorable chibi anime linework and gentle cel shading on the characters, consistent with reference 1. Full bodies including the highest fingertips, GPT horns, whale ahoge, tails and shoes must be completely inside each cell.\nScene/backdrop: perfectly flat uniform opaque light blue-lavender #E4E6FA across the whole sheet and every cell. No gradient, texture, floor, cast shadows, background shading, text, watermark, numbers, labels, symbols, motion lines or effects.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Both chibi identities, clothing and proportions; GPT left, whale right. Ignore waving action."
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Whale community character details: blue gradient waves, fin ears, maid headband, ring ahoge, apron and tail. Ignore sheet layout and poses.",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/duo-chibi-raised-arm-stretch-v049/sheet.png",
+      "source_frames": [
+        "sources/duo-chibi-raised-arm-stretch-v049/frames/frame-01.png",
+        "sources/duo-chibi-raised-arm-stretch-v049/frames/frame-02.png",
+        "sources/duo-chibi-raised-arm-stretch-v049/frames/frame-03.png",
+        "sources/duo-chibi-raised-arm-stretch-v049/frames/frame-04.png",
+        "sources/duo-chibi-raised-arm-stretch-v049/frames/frame-05.png",
+        "sources/duo-chibi-raised-arm-stretch-v049/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/gpt-chibi-cheek-think-v050",
+      "label": "Q版GPT娘 · 托腮思考",
+      "group": "gif",
+      "file": "assets/gif/gpt-chibi-cheek-think-v050.gif",
+      "sha256": "fc73cbd5b75e0aad9186ae4d381848b0a583a023fbe22998cfe5e218a882978d",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "GPT girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        700,
+        220,
+        480
+      ],
+      "total_duration_ms": 2500,
+      "loop": 0,
+      "background": "opaque pale lavender with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation keyframe sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 cells. Read left to right across top row, then bottom row. No visible grid or borders.\nCreate six sequential keyframes of ONE full-body CHIBI GPT dragon girl gently resting an open palm against her own cheek in thought, then returning her hand to her waist. Image 1 is the recent full-body chibi identity, clothing, clean linework and compact proportions reference; ignore its fist-cheer pose. Image 2 is the original chibi identity reference; ignore the waving pose and transparent background. Both are character references, not pose instructions. No eyeglasses, props, whale features, other characters or adult proportions.\nIdentity in EVERY cell: a cute large-headed small-bodied chibi girl, white and pale-lavender long flowing hair with a side braid, purple eyes, two pale-purple curved dragon horns with gold ornaments, skin-colored pointed elf ears, white-purple-gold outfit with dark-purple sleeveless high-neck bodice, wide white hanging sleeves, purple waist wrap and gold fasteners, short white and purple skirt, purple-white shoes and purple dragon tail curving toward viewer's left. Exactly two arms and two hands, with readable shoulder-elbow-forearm-wrist ownership.\nComposition: fixed slight three-quarter frontal camera, full standing body, both feet planted. Complete horns, ears, hair tips, hands, skirt, tail and shoes must stay INSIDE EACH cell. Keep the ENTIRE figure no more than about 380px tall and 380px wide in each 512px square, with at least 65px empty padding on all four sides. Keep head/body/hips/legs/feet/tail positions and scale stable across cells except for the tiny specified head tilt. Same figure centered in each cell, no whole-image translation or zoom. The hand on the VIEWER'S LEFT stays resting in front of her own waist in every frame.\nThe moving hand is on the VIEWER'S RIGHT (the character's LEFT hand). It is a naturally OPEN palm with fingers gently together. During cheek contact the palm softly supports the same-side lower cheek, heel of the palm at the side of her jaw, fingers following the outer cheek below the ear. Never form a fist or a pointing gesture. Do not cover eyes, nose or mouth. Do not reach over the ear or poke the eye. The wrist must remain visibly connected to her own bent forearm.\nSix sequential keyframes:\n1 TOP LEFT: head upright, eyes open, gentle natural smile, BOTH hands resting at the front of her waist.\n2 TOP MIDDLE: the VIEWER-RIGHT forearm bends and lifts, open hand approaching her own same-side lower cheek, still clearly separated from the cheek. Other hand stays waist-front. Show an actual shoulder-elbow-forearm intermediate motion.\n3 TOP RIGHT: the VIEWER-RIGHT open palm gently touches and SUPPORTS her own same-side lower cheek/jaw side. Fingers together along the cheek, palm heel under the cheek near the side of the jaw, wrist attached to her bent forearm. Eyes stay open with a calm thoughtful look; all eyes, nose and mouth clearly visible. The hand is touching her face, not hovering in empty air.\n4 BOTTOM LEFT: maintain the same open-palm cheek support. Head tilts very slightly TOWARD that hand; purple eyes glance slightly upward to one side, mouth gently pursed in thought. Keep eyes, nose and mouth visible. Actual palm-cheek contact, no fist under chin. No question mark or thought symbols.\n5 BOTTOM MIDDLE: head straightens again, open palm has left the cheek and lowers to chest height with a visible gap from the face. The other hand stays in front of the waist.\n6 BOTTOM RIGHT: return close to frame 1, BOTH hands resting at the front of the waist, head upright, eyes open and natural small smile.\nThe main motion is actual shoulders, elbows and forearm raising and lowering, with readable palm-cheek contact and release plus a small head tilt. Not expression-only. No fist, thumbs-up, pointing up, eye rubbing, kissing, chin-pinching, or hand over mouth. No extra hands, fused fingers, detached wrists or changing arm ownership.\nStyle: polished cute chibi anime line art, soft cel shading on the character. Entire background perfectly flat uniform opaque pale lavender #EDE5FA, identical in every cell. No gradient, texture, floor, cast shadow, glow, sparkles, symbols, motion lines, text, numbers, captions, labels, watermark or borders.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent full-body chibi GPT identity, white-purple-gold clothing, compact proportions and clean linework; ignore fist-cheer pose."
+        },
+        {
+          "name": "chibi-wave.png",
+          "role": "Original chibi GPT identity, hair, horns, pointed skin-colored ears, clothes and purple tail; ignore waving pose and transparent background."
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/gpt-chibi-cheek-think-v050/sheet.png",
+      "source_frames": [
+        "sources/gpt-chibi-cheek-think-v050/frames/frame-01.png",
+        "sources/gpt-chibi-cheek-think-v050/frames/frame-02.png",
+        "sources/gpt-chibi-cheek-think-v050/frames/frame-03.png",
+        "sources/gpt-chibi-cheek-think-v050/frames/frame-04.png",
+        "sources/gpt-chibi-cheek-think-v050/frames/frame-05.png",
+        "sources/gpt-chibi-cheek-think-v050/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/whale-anime-tray-present-v051",
+      "label": "动漫鲸鱼娘 · 端盘示意",
+      "group": "gif",
+      "file": "assets/gif/whale-anime-tray-present-v051.gif",
+      "sha256": "f9d5fdef824ed64f647a37d606c4c68d85e6dd9ecbaac890a28dfb6a2b16aed7",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "adult anime",
+      "characters": [
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        220,
+        280,
+        500,
+        220,
+        480
+      ],
+      "total_duration_ms": 2300,
+      "loop": 0,
+      "background": "opaque pale blue with slight source tone/texture variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE animation keyframe sprite sheet, exactly 1536 x 1024 pixels, strict 3 columns and 2 rows of equal 512 x 512 cells. Read left to right across the top row, then bottom row. No visible grid, borders, labels or numbers.\nCreate six consecutive keyframes of ONE adult anime whale maid woman lifting a serving tray, politely presenting it with her free hand, then returning to rest. Reference image 1 supplies the adult face and body proportions, outfit and clean linework; ignore its hand-on-chest action. Reference image 2 supplies whale identity details only: ignore its chibi proportions, poses and reference-sheet layout. Use mature adult anime proportions, not chibi. No GPT dragon features.\nSame identity in all six cells: long wavy blue hair grading to light blue at the ends, blue eyes, blue fin-shaped ears with white scalloped lower edges, white lace maid headband with blue side bows, one loop-shaped blue ahoge above her head, navy blue and white maid dress with long sleeves, white ruffled apron with small blue whale emblem, small gold dress trims, and a blue whale tail curving out on the viewer's right. Exactly two arms and two hands, readable continuous shoulder-elbow-wrist ownership.\nPROPS INVARIANT: exactly ONE small shallow silver/light-gray oval tray and exactly ONE plain white small ceramic mug resting on that tray in EACH cell. Mug remains upright in the same fixed spot on the tray, its base visibly touching the tray top. Its single handle faces the viewer's LEFT in every frame. Blank mug: no text, patterns, steam, visible liquid. No pouring or drinking. Tray always stays horizontal and level, never tilts. No floating mug, extra cups, saucers or additional props.\nHAND OWNERSHIP INVARIANT: the character's LEFT arm is on the viewer's RIGHT. This is ALWAYS the tray-supporting arm: forearm bends upward, palm facing up directly underneath the tray, gently curled fingers supporting the underside/lower edge, wrist attached to the left sleeve. This same hand holds the same tray throughout. The character's RIGHT arm on viewer's LEFT is ALWAYS the free presenting hand. Never exchange prop ownership. Free hand never touches the mug or tray.\nFixed near-frontal, slight three-quarter half-body portrait ending at upper skirt. Head, body, hair and tail stay the same scale and position; no camera move, no whole-character translation or zoom. Fully show loop ahoge, fin ears, hair tips, both hands, sleeve ends, tail, tray and mug inside EACH cell. Upper-skirt portrait ends naturally inside each cell with blue background below it. Center the complete subject plus highest/outermost hand and prop within about 380px height and 380px width, aiming for at least 65px empty space on ALL four sides of each 512px cell. All six cells use identical framing.\nSix consecutive keyframes:\n1 TOP LEFT: eyes open, gentle smile. Tray held horizontally in front of her waist, supported underneath by her LEFT hand on viewer's RIGHT. Mug upright on tray. Her free RIGHT hand rests naturally in front of the waist on viewer's LEFT.\n2 TOP MIDDLE: tray-supporting LEFT elbow and forearm visibly bend to lift tray and mug together from waist to lower chest, slightly presented toward the viewer but remaining level. Same left palm supports the underside. Her free RIGHT hand starts to lift away from her waist.\n3 TOP RIGHT: tray and mug held steadily at lower chest. Her free RIGHT forearm on viewer's LEFT extends outward beside the tray with an OPEN PALM facing UP, fingers together and naturally relaxed, politely presenting the tray and mug. The free hand is visibly beside the tray, without touching it. Do not raise a lone pointing index finger. Left arm still supports the tray underneath.\n4 BOTTOM LEFT: keep EXACT same tray height, level orientation, mug position and left hand support as frame 3. Keep the open free palm presenting beside the tray. Close both eyes in a warm smile, optionally an extremely small nod, no bow and no tipping or movement of tray/cup.\n5 BOTTOM MIDDLE: eyes open. Free RIGHT palm withdraws inward and descends toward waist. Supporting LEFT elbow and forearm lower tray and mug together back toward waist. Clear reverse of the lift, tray horizontal, mug attached to its top.\n6 BOTTOM RIGHT: return close to frame 1: open eyes, gentle smile, tray and upright mug at waist supported by LEFT palm underneath on viewer's RIGHT, free RIGHT hand at waist on viewer's LEFT.\nThe visible main animation is actual forearm lifting/lowering the tray and the free hand opening/presenting/withdrawing, not merely changing facial expressions. Keep two hands, clear wrists and same ownership. All six images show complete readable physical support from hand to tray and mug to tray.\nStyle: polished clean adult anime line art, soft cel shading restricted to the character and props. Entire background is clean FLAT uniform opaque pale blue #E0F2FC, identical across cells: no gradient, texture, floor, cast shadows, lighting effects, text, watermark, symbols, motion lines or sparkles.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent adult anime whale face/body proportions, outfit and clean linework; ignore handchest action."
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Community whale identity details only, ignore chibi proportions and sheet layout."
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/whale-anime-tray-present-v051/sheet.png",
+      "source_frames": [
+        "sources/whale-anime-tray-present-v051/frames/frame-01.png",
+        "sources/whale-anime-tray-present-v051/frames/frame-02.png",
+        "sources/whale-anime-tray-present-v051/frames/frame-03.png",
+        "sources/whale-anime-tray-present-v051/frames/frame-04.png",
+        "sources/whale-anime-tray-present-v051/frames/frame-05.png",
+        "sources/whale-anime-tray-present-v051/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/gpt-chibi-raise-heart-v052",
+      "label": "Q版GPT娘 · 抬手合心",
+      "group": "gif",
+      "file": "assets/gif/gpt-chibi-raise-heart-v052.gif",
+      "sha256": "0cf80adf5bc28430fdd7c3334e83589031d1c75613743b2f672c7af8a37c23a5",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "chibi",
+      "characters": [
+        "GPT girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        550,
+        220,
+        350,
+        500,
+        220,
+        460
+      ],
+      "total_duration_ms": 2300,
+      "loop": 0,
+      "background": "opaque pale lavender with slight source tone variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE six-keyframe animation sprite sheet, exactly 1536 x 1024 pixels. Strict layout: 3 columns by 2 rows, each cell 512 x 512, read left-to-right across top row then bottom row. Invisible cell boundaries; NO drawn grid, frame numbers or text.\nGenerate ONE solo full-body chibi GPT dragon girl raising BOTH arms to make a heart with her actual TWO HANDS at her chest, smiling, then lowering both hands back to rest. The MAIN action is actual forearm lifting, hands approaching, fingers making a hollow hand-heart, hands separating and forearms lowering. This must NOT be six copies of an unchanged heart pose with only blinking.\nReference image 1 is the recent chibi identity, polished linework, same forward-facing full-body proportions and outfit. Ignore any cheek-thinking pose. Reference image 2 is the original identity master; ignore its waving pose and keep BOTH feet planted and visible. Do not copy either reference pose. Preserve identity: flowing white hair shaded pale lavender, one side braid on viewer LEFT, vivid violet eyes, pale lavender dragon horns with gold bands and small gold diamond ornaments, skin-colored pointed ears with gold dangling earrings, purple flower and ribbon on viewer RIGHT, dark-purple bodice, white/lavender short layered skirt, broad white detached sleeves with purple and gold trim, purple-and-white shoes, lavender scaled dragon tail curling out to viewer LEFT. Same chibi head/body ratio, clothes and ornaments in every cell. Exactly ONE girl, exactly TWO arms and TWO hands.\nFIXED FRAMING: same near-frontal camera, head position and size, shoulders, torso, hips, planted feet and tail position across all six cells. Only forearms, wrists, fingers and the specified eyelids move. Do not sway, turn, tilt head, hop, zoom or change body proportions. Fully contain every horn tip, hair curl, ear, fingertip, sleeve, tail tip and both shoes inside EACH cell. Make the COMPLETE silhouette about 380 px tall and at most 380 px wide, centered in its own 512px square, aiming for at least 65px clear empty space on ALL FOUR sides. Do not crop the character at any cell edge.\nHAND ANATOMY: each wrist stays visibly attached to its own sleeve and bent forearm, each arm returns to its own shoulder, no crossed arms and no extra hands. In the heart pose, BOTH hands meet below her chin at upper chest without hiding her face. The two curved index fingers create the heart's upper lobes, meeting fingertip-to-fingertip at the upper central notch. The two thumbs angle downward and meet tip-to-tip at the lower center, creating the pointed bottom. A clearly visible EMPTY heart-shaped space remains INSIDE the fingers, showing the background/garment behind. The other three fingers of EACH hand curl neatly into its own palm. Real connected skin-colored fingers form the outline; NO drawn heart symbol, pink heart, floating heart, graphic or particle can substitute for the gesture. This is a TWO-HAND chest heart, never a single-hand finger-heart.\nSix keyframes in reading order:\n1 TOP LEFT: violet eyes open, gentle smile. Both hands are SEPARATE in front of her waist, naturally relaxed, palms inward, forearms pointing down. Hands not touching, no heart pose.\n2 TOP MIDDLE: both elbows bend, BOTH forearms clearly lift toward the chest. Hands now at lower chest, still SEPARATE with a visible gap, approaching from their own sides. No cheek touch, no face obstruction.\n3 TOP RIGHT: BOTH hands now meet at upper chest and visibly form the hollow heart described above. Both index fingertips contact at upper center and both thumb tips contact at lower center. Violet eyes open, soft smile. Forearms are visibly higher than frame 1.\n4 BOTTOM LEFT: hold the same TWO-HAND hollow heart at chest, preserving index and thumb fingertip contacts and open heart-shaped center. Close both eyes with a warm gentle smile. Keep head, feet, torso and tail fixed.\n5 BOTTOM MIDDLE: eyes open. BOTH hands have separated, fingertip contacts RELEASED. Both forearms are lowering halfway from chest toward waist, visibly below frames 3/4. Separate relaxed hands, no heart outline remains.\n6 BOTTOM RIGHT: return close to frame 1: violet eyes open, gentle smile, both hands separate and naturally relaxed in front of waist, forearms lowered, palms inward. Match the first frame's planted feet/head/body/tail for a gentle loop.\nStyle: polished cute anime chibi illustration, crisp purple outlines, soft cel shading on the character only, matching references. Opaque clean FLAT uniform pale lavender background #EEE5FA, identical across every cell. No transparency, gradient, texture, cast shadow, ground line, props, writing, watermark, sparkles, particles, symbols, borders, extra characters or separate heart graphics.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Recent chibi GPT identity, linework, outfit and full-body frontal proportions; do not inherit cheek-thinking action."
+        },
+        {
+          "name": "chibi-wave.png",
+          "role": "Original chibi GPT identity master, horns/braid/ears/outfit/tail; do not inherit waving pose."
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/gpt-chibi-raise-heart-v052/sheet.png",
+      "source_frames": [
+        "sources/gpt-chibi-raise-heart-v052/frames/frame-01.png",
+        "sources/gpt-chibi-raise-heart-v052/frames/frame-02.png",
+        "sources/gpt-chibi-raise-heart-v052/frames/frame-03.png",
+        "sources/gpt-chibi-raise-heart-v052/frames/frame-04.png",
+        "sources/gpt-chibi-raise-heart-v052/frames/frame-05.png",
+        "sources/gpt-chibi-raise-heart-v052/frames/frame-06.png"
+      ],
+      "encoded_frames": []
+    },
+    {
+      "id": "gif/whale-anime-turn-listen-v054",
+      "label": "动漫鲸鱼娘 · 转头聆听",
+      "group": "gif",
+      "file": "assets/gif/whale-anime-turn-listen-v054.gif",
+      "sha256": "e574e03df3724d39c5ccabde146c99d14927ea475a24bb33a005e2b62776ecc2",
+      "ai_generated": true,
+      "license": "CC-BY-4.0 to the extent of rights held; third-party rights excluded",
+      "third_party_clearance": "not fully verified",
+      "style": "adult anime",
+      "characters": [
+        "whale girl"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        550,
+        210,
+        330,
+        500,
+        240,
+        470
+      ],
+      "total_duration_ms": 2300,
+      "loop": 0,
+      "background": "opaque pale blue with slight source tone variation and palette quantization",
+      "prompt": "Use case: stylized-concept.\nAsset type: One animation keyframe sheet, exactly 1536 x 1024 pixels, laid out as three columns and two rows of six equal 512 x 512 square cells. Read top left, top middle, top right, bottom left, bottom middle, bottom right. No visible grid, borders, numbers or labels.\nDraw the same adult anime whale maid in six consecutive keyframes as she turns toward a sound, raises one hand beside her fin ear to listen, then returns to rest. Reference image 1 sets her adult anime facial proportions, half-body framing, clean line art and maid outfit. Omit its cup, tray and serving pose. Reference image 2 supplies whale identity details only. Keep adult anime proportions and use neither its chibi proportions nor its sheet layout.\nIdentity in all cells: long wavy blue hair fading to light blue, blue eyes, blue fin ears with white scalloped lower edges, white lace maid headband with blue side bows, one loop-shaped blue ahoge, navy blue and white long-sleeved maid dress with a small blue whale emblem on the white ruffled apron, and a blue whale tail curling on the viewer's right.\nLock the same near-frontal slight three-quarter camera and upper-skirt half-body framing. Keep torso, shoulders and tail anchored at the same size and location. Draw the head and moving forearm in physically distinct poses, with no camera pan, zoom or whole-body translation. Aim to fit the complete silhouette within about 380 x 380 px in each 512 px cell, leaving approximately 65 px of blue space on all four sides. Include the complete ahoge, ear silhouettes, hair tips, sleeves, both hands, tail and upper-skirt bottom edge inside each cell. Exactly two hands, each attached to its own sleeve and forearm; the arms never cross. The hand on the viewer's LEFT stays relaxed in front of her waist in all six cells. The hand on the viewer's RIGHT (her left hand) is the only hand that rises.\n1 Top left: face near-front, open blue eyes, a gentle neutral expression, both hands relaxed in front of waist.\n2 Top middle: pupils look toward the viewer's right. Head visibly begins turning right and the near cheek and nose shift with the turn. The viewer-right forearm just starts to lift.\n3 Top right: clearly turn her head about 25 degrees toward the viewer's right with a slight listening tilt. Draw the nose, eyes, chin and hairline in a coherent three-quarter angle, eyes directed to the right. Keep the fin ear on the viewer's right clearly visible. Bend the elbow of the viewer-right arm to bring its open relaxed palm up beside and just below that ear, fingers pointing up. Leave a small visible gap between the hand and ear. The hand stays clear of the cheek and face. Keep the opposite hand at the waist.\n4 Bottom left: hold the same turned and slightly tilted listening pose, same raised open palm beside and below the ear with a gap, both eyes now closed in a gentle smile.\n5 Bottom middle: open eyes as her head turns back partway toward the front; the raised hand descends below the chest with a clearly lowered forearm. The opposite hand stays at waist.\n6 Bottom right: near the same front-facing neutral pose as cell 1, eyes open and both hands back in front of the waist.\nPolished adult anime line art and soft cel shading on the character. Continuous uniform opaque pale blue background, approximately #E0F2FC, in all cells. No background gradient, floor, cast shadows, motion lines, sound symbols, decorative elements, props, letters, labels, or watermark.",
+      "references": [
+        {
+          "name": "frame-01.png",
+          "role": "Adult whale maid identity, face/body proportions, upper-skirt half-body framing, outfit and clean line art; omit serving pose, cup and tray."
+        },
+        {
+          "name": "deepseek-community-chibi-sheet.png",
+          "role": "Community whale identity details only; ignore chibi proportions, poses and sheet layout.",
+          "community_source": "https://treapgogo.github.io/deepseek-whale-girl/"
+        }
+      ],
+      "playback_verified": false,
+      "source_sheet": "sources/whale-anime-turn-listen-v054/sheet.png",
+      "source_frames": [
+        "sources/whale-anime-turn-listen-v054/frames/frame-01.png",
+        "sources/whale-anime-turn-listen-v054/frames/frame-02.png",
+        "sources/whale-anime-turn-listen-v054/frames/frame-03.png",
+        "sources/whale-anime-turn-listen-v054/frames/frame-04.png",
+        "sources/whale-anime-turn-listen-v054/frames/frame-05.png",
+        "sources/whale-anime-turn-listen-v054/frames/frame-06.png"
       ],
       "encoded_frames": []
     },
